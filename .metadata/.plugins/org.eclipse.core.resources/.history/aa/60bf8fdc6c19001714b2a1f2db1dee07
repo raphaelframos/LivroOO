@@ -1,0 +1,12 @@
+
+public class Guitarra {
+	
+	private String cor;
+	private String marca;
+	private int quantidadeDeCordas;
+	private String tipoDaMadeira;
+	private int quantidadeDeCasas;
+	private String tipoDePonte;
+
+
+}
