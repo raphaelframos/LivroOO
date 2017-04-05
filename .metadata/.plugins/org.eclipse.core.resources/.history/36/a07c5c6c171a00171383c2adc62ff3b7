@@ -1,0 +1,36 @@
+
+public class Principal {
+
+	public static void main(String[] args) {
+		Homem homemUm = new Homem();
+		homemUm.setNome("Kuririn");
+		homemUm.setIdade(25);
+		homemUm.setCorDosOlhos("Verde");
+		homemUm.setPeso(45);
+		homemUm.setAltura(1.53);
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

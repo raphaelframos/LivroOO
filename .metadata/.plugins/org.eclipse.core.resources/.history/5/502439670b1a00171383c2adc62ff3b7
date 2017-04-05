@@ -8,23 +8,6 @@ public class Guitarra {
 	private int quantidadeDeCasas;
 	private String tipoDaPonte;
 	
-	public void tocar(){
-		System.out.println("Estou tocando!");
-	}
-	
-	public void solar(){
-		System.out.println("Estou solando!");
-	}
-	
-	public void abaixarVolume(){
-		System.out.println("Estou abaixando o volume!");
-	}
-	
-	public boolean cordaEstaArrebentada(){
-		//Alguma lógica para verificar se perdemos alguma corda no decorrer do uso da guitarra.
-		return false;
-	}
-	
 	public String getCor() {
 		return cor;
 	}
